@@ -1,4 +1,7 @@
 
+a = "hello world"
+
+print(a)
 
 def greet(fx):
   def mfx(*args, **kwargs):
